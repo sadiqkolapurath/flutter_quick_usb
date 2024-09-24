@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-import 'package:quick_usb/src/common.dart';
+import 'package:flutter_quick_usb/src/common.dart';
 
 abstract class QuickUsbPlatform extends PlatformInterface {
   QuickUsbPlatform() : super(token: _token);

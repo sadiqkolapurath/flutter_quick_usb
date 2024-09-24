@@ -6,7 +6,7 @@ import 'dart:typed_data';
 
 import 'package:convert/convert.dart';
 import 'package:flutter/material.dart';
-import 'package:quick_usb/quick_usb.dart';
+import 'package:flutter_quick_usb/flutter_quick_usb.dart';
 
 void main() {
   runApp(const MyHome());

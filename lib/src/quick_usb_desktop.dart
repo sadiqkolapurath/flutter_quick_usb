@@ -5,7 +5,7 @@ import 'dart:typed_data';
 import 'package:ffi/ffi.dart' as ffi;
 import 'package:flutter/foundation.dart';
 import 'package:libusb/libusb64.dart';
-import 'package:quick_usb/src/common.dart';
+import 'package:flutter_quick_usb/src/common.dart';
 
 import 'quick_usb_platform_interface.dart';
 import 'utils.dart';

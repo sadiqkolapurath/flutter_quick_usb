@@ -2,8 +2,8 @@ import 'dart:async';
 import 'dart:typed_data';
 
 import 'package:flutter/services.dart';
-import 'package:quick_usb/src/common.dart';
-import 'package:quick_usb/src/quick_usb_platform_interface.dart';
+import 'package:flutter_quick_usb/src/common.dart';
+import 'package:flutter_quick_usb/src/quick_usb_platform_interface.dart';
 
 const MethodChannel _channel = MethodChannel('quick_usb');
 

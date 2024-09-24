@@ -3,7 +3,7 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-  quick_usb
+  flutter_quick_usb
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
