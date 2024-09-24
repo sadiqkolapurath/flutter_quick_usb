@@ -1,5 +1,7 @@
 fork from https://github.com/woodemi/quick.flutter
 
+https://pub.dev/packages/quick_usb
+
 # quick_usb
 
 A cross-platform (Android/Windows/macOS/Linux) USB plugin for Flutter
