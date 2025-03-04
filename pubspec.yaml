@@ -51,8 +51,8 @@ flutter:
       macos:
         dartPluginClass: QuickUsbMacos
       linux:
-        pluginClass: QuickUsbPlugin
-        dartPluginClass: QuickUsbLinux
+        pluginClass: FlutterQuickUsbPlugin
+        dartPluginClass: FlutterQuickUsbLinux
     # -------------------
 
   # To add assets to your plugin package, add an assets section, like this:
